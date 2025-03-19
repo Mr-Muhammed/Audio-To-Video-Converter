@@ -1,6 +1,6 @@
-# Audio/Video Converter 🎥🔀🎵
+## Audio/Video Converter 🎥🔀🎵
 
-A multi-functional Windows application for audio/video conversion, GIF creation, and basic video editing. Built with .NET 9.0.
+- A multi-functional Windows application for audio/video conversion, GIF creation, and basic video editing. Built with .NET 9.0.
 
 ## Features ✨
 - **Audio to Video**: Combine images + audio to create videos
@@ -21,7 +21,9 @@ A multi-functional Windows application for audio/video conversion, GIF creation,
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/mo104-maker/Audio-To-Video-Converter.git
+git clone https://github.com/Mr-Muhammed/Audio-To-Video-Converter.git
 cd Audio-To-Video-Converter
-# Download
-- **.You can download the portable version from** [here](https://github.com/mo104-maker/Audio-To-Video-Converter/raw/refs/heads/master/Audio%20To%20Video%20Converter.zip)
+```
+
+### 2. Download
+- You can download the portable version from [here](https://github.com/mo104-maker/Audio-To-Video-Converter/raw/refs/heads/master/Audio%20To%20Video%20Converter.zip)
